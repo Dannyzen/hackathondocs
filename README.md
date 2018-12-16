@@ -3,7 +3,7 @@ Docs for the hackathons
 
 Rant:
 
-Your hosting? Your goal is to: 
+You're hosting? Your goal is to: 
 
 * Unlock the creativity in others
 * Be open to being surprised
