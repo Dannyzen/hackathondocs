@@ -5,6 +5,7 @@ Rant:
 
 You're hosting? Your goal is to: 
 
+* Get out of the way of those who are creating. OH!  You're creating? Great! You are your own audience.
 * Unlock the creativity in others
 * Be open to being surprised
 * Helping where help may not be expected
